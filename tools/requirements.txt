@@ -2,3 +2,4 @@ launchpadlib
 httplib2
 pygithub
 requests
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
